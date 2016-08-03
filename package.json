@@ -1,0 +1,24 @@
+{
+  "name": "response-utils",
+  "version": "1.0.0",
+  "description": "Response utilities for express 4.x projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hari-narasimhan/response-utils.git"
+  },
+  "keywords": [
+    "Response",
+    "utils",
+    "expressjs"
+  ],
+  "author": "Hari Narasimhan <hari.narasimhan@qfor.com> (http://github.com/hari-narasimhan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hari-narasimhan/response-utils/issues"
+  },
+  "homepage": "https://github.com/hari-narasimhan/response-utils#readme"
+}
